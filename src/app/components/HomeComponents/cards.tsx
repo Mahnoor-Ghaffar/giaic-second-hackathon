@@ -1,5 +1,5 @@
 import Image from "next/image";
-import colours from "@/images/product-colors.png";
+import colours from "@/../public/images/product-colors.png";
 
 export default function CardText() {
   return (
