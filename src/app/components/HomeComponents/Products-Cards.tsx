@@ -1,13 +1,13 @@
 import Image from "next/image";
-import picture1 from "@/images/product-cover-5.png";
+import picture1 from "@/../public/images/product-cover-5.png";
 import CardText from "./cards";
-import pic2 from "@/images/product-cover-5 (1).png";
-import pic3 from "@/images/product-cover-5 (2).png";
-import pic4 from "@/images/product-cover-5 (3).png";
-import pic5 from "@/images/product-cover-5 (4).png";
-import pic6 from "@/images/product-cover-5 (5).png";
-import pic7 from "@/images/product-cover-5 (6).png";
-import pic8 from "@/images/product-cover-5 (7).png";
+import pic2 from "@/../public/images/product-cover-5 (1).png";
+import pic3 from "@/../public/images/product-cover-5 (2).png";
+import pic4 from "@/../public/images/product-cover-5 (3).png";
+import pic5 from "@/../public/images/product-cover-5 (4).png";
+import pic6 from "@/../public/images/product-cover-5 (5).png";
+import pic7 from "@/../public/images/product-cover-5 (6).png";
+import pic8 from "@/../public/images/product-cover-5 (7).png";
 
 export default function ProductCard() {
   return (
