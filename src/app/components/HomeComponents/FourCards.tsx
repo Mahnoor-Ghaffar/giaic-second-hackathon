@@ -2,11 +2,10 @@
 
 import Image from "next/image";
 import React from "react";
-import filter1 from '@/../public/images/filter.png';
-import filter2 from '@/../public/images/filter (1).png';
-import filter3 from '@/../public/images/filter (2).png';
-import filter4 from '@/../public/images/filter (3).png';
-
+import filter1 from "@/../public/images/filter.png";
+import filter2 from "@/../public/images/filter (1).png";
+import filter3 from "@/../public/images/filter (2).png";
+import filter4 from "@/../public/images/filter (3).png";
 
 const Futured = () => {
   return (
@@ -48,14 +47,14 @@ const Futured = () => {
           <div className="relative w-64 h-80 bg-gray-950">
             <Image
               src={filter2}
-              alt="Women's Collections"
+              alt="Women&#39;s Collections"
               width={500}
               height={500}
               className="w-full h-full object-cover"
             />
             <div className="absolute bottom-4 left-4">
               <h1 className="text-lg font-bold text-white">
-                Women's Collections
+                Women&#39;s Collections
               </h1>
               <p className="text-xs text-gray-300 mb-2">
                 Featured woman collections that give you another vibe.
